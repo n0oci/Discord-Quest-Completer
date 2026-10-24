@@ -23,7 +23,7 @@ This uses internal and undocumented Discord APIs. It may break after updates. Us
 ## ✨ Features
 
 - [x] **Live Terminal UI:** A dark-themed console panel that tracks your progress without getting spammed by Discord's internal logs.
-- [ ] **Native Notifications:** Plays a sound and sends a desktop notification when everything is done.
+- [x] **Native Notifications:** Plays a sound and sends a desktop notification when everything is done.
 - [x] **Zero Dependencies:** Pure JavaScript. No external files, no downloads, no token required.
 
 ## 🚀 How to Use
